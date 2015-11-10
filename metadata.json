@@ -1,7 +1,7 @@
 {
     "concepts":["uwp"],
     "lang":"vb",
-    "title":"Master-Detail UWP Sample",
+    "title":"Master-Detail UWP App",
     "description":"A UWP app showing the Master-Detail pattern with the Bing Maps API.",
     "author":"cartermp"
 }
